@@ -2,12 +2,12 @@
  This app provides all the top and genuine news to the users. It automatically fetches & updates news at regular intervals it has category-wise news and opening news in the browser Quiz app its a completly responsive with firebase as its backend along with the chatbot which uses dialogflow development
 # Technical Outline 📕
 ❶ password less authentication\
-❷ category wise news
-❸ business news
-❹ sports news
-❺ 
-❻ 
-❼
+❷ category wise news\
+❸ business news\
+❹ sports news\
+❺ business news\
+❻ entertainment news\
+❼ genral news
 # Vedio Preview
 https://user-images.githubusercontent.com/112925756/189819558-5320b5ef-6563-439e-b527-79a96191b415.mp4
 # Screenshot
